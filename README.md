@@ -1,4 +1,6 @@
 
+
+## IoT devices
 • Target operating system – Windows 10
 
 • Scan our Wi-Fi network for active IoT devices
@@ -11,7 +13,6 @@
 
 • Save pcap filename with the device info in database for 10
 
-## IoT devices.
 # Objectives
 
 IoT Devices
