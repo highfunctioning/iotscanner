@@ -27,6 +27,7 @@ Tools and Libraries Used to Scan Wi-Fi network for IoT Devices
 • Python3
 
 • PyQt5 (for GUI interface)
+ 
 
 • Scapy to send ARP requests to discover IoT devices and capture packets to and from a specified device in the network.
 
@@ -35,6 +36,8 @@ Tools and Libraries Used to Scan Wi-Fi network for IoT Devices
 • Sqlite3 to store filename and respective IP of device in the database.
 
 PyQt5
+
+   
 
 ▪ Python library to create cross-platform desktop applications with GUI.
 
@@ -78,8 +81,6 @@ Source code for Scanning network Algorithm to Capture Packets through a Device
 
 • Lastly, the packets are stored in a pcap file using wrpcap() function of scapy and stored in the database using sqlite3
 
-
-# Source code for Packet Capture
 
 # Displaying Device Information
 
